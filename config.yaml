@@ -45,7 +45,7 @@ Menus:
 params:
   title: "Ceren Dilek"
   description: UX Portfolio
-  # staticPath: ""  # The path to serve the static files from
+  staticPath: "/ceren.dilek.me"  # The path to serve the static files from
   favicon: "/fav.png"
 
   theme:
