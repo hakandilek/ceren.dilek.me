@@ -1,0 +1,4 @@
+enable        : true
+title         : "Who trust our judgment"
+client_logos  : 
+  ["images/clients/client-logo-one.png", "images/clients/client-logo-two.png", "images/clients/client-logo-three.png"]
