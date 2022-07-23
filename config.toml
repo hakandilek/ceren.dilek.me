@@ -89,7 +89,7 @@ summarylength = 25
     [params.footer.contactInfo]
       title   = "Contact Info"
       address = "Herzogenaurach<br>Germany"
-      phone   = "111-222-3333"
+      phone   = "+49-151-470-170-65"
       email   = "ceren@dilek.me"
       # Footer Sitemap
       [params.footer.sitemap]
